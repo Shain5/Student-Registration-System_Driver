@@ -14,7 +14,7 @@ dependencies {
     testImplementation group: 'junit', name: 'junit', version: '4.4'
     // https://mvnrepository.com/artifact/org.terasoluna.gfw/terasoluna-gfw-jodatime
     implementation group: 'org.terasoluna.gfw', name: 'terasoluna-gfw-jodatime', version: '5.7.0.RELEASE'
-    implementation 'com.github.Shain5:Student-Registration:master-SNAPSHOT'
+    implementation 'com.github.Shain5:Student-Registration-System:master-SNAPSHOT'
 }
 
 test {
